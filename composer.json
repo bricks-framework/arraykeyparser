@@ -14,7 +14,7 @@
   ],
   "require": {
     "php": "^7.3",
-    "bricks-framework/exception": "^0.1"
+    "bricks-framework/exception": "^0.1|dev-master"
   },
   "autoload": {
     "classmap": ["lib/"]
